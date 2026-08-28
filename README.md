@@ -1,4 +1,4 @@
-# Squid Racer
+# Squid Racerz
 
 A tiny, keyboard-and-touch friendly arcade racer. Catch the signal, dodge the crates, and reach the very specific finish line.
 
