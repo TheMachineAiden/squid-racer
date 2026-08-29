@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="720" viewBox="0 0 720 720">
+  <defs>
+    <radialGradient id="water" cx="50%" cy="48%" r="76%"><stop stop-color="#4bb6b5"/><stop offset=".52" stop-color="#228d9b"/><stop offset="1" stop-color="#0c3e67"/></radialGradient>
+    <radialGradient id="shallows"><stop stop-color="#b8e4c7" stop-opacity=".92"/><stop offset=".58" stop-color="#78cbb8" stop-opacity=".65"/><stop offset="1" stop-color="#43a9ad" stop-opacity="0"/></radialGradient>
+    <linearGradient id="sand" x2="0" y2="1"><stop stop-color="#fff0bd"/><stop offset="1" stop-color="#e7bc6c"/></linearGradient>
+    <filter id="grain"><feTurbulence type="fractalNoise" baseFrequency=".8" numOctaves="3" stitchTiles="stitch"/><feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 .11 0"/><feBlend in="SourceGraphic" mode="multiply"/></filter>
+  </defs>
+  <rect width="720" height="720" fill="#1d8398"/>
+  <g opacity=".24" fill="none" stroke="#d7f5dc" stroke-width="4" stroke-linecap="round">
+    <path d="M36 102c30-18 58-18 88 0m-52 18c30-18 58-18 88 0M565 104c32-18 61-18 92 0m-70 23c31-18 60-18 91 0M46 592c31-18 60-18 92 0m-35 21c30-18 59-18 90 0M544 603c31-18 60-18 92 0m-58 23c31-18 60-18 91 0"/>
+  </g>
+  <ellipse cx="360" cy="360" rx="188" ry="153" fill="#74cbb8"/>
+  <g fill="#f1ce85" stroke="#b78645" stroke-width="5">
+    <path d="M276 261c31-42 92-68 145-52 54 16 83 67 64 121-17 50-69 65-108 96-42 33-85 75-134 51-44-21-47-73-28-110 16-31 2-35 21-65z"/>
+    <path d="M69 326c24-24 73-24 94 8 17 26 1 63-30 75-39 16-88-7-87-46 1-12 9-27 23-37z"/>
+    <path d="M586 392c23-21 63-14 77 15 16 33-10 69-46 68-37-1-59-45-31-83z"/>
+  </g>
+  <g fill="#68b477" stroke="#276e67" stroke-width="4">
+    <path d="M259 302c-27-34-9-76 8-87 9 28 20 53 9 83 24-28 47-33 68-24-8 31-35 53-69 45 14 18 13 37 3 57-23-20-31-48-19-74z"/>
+    <path d="M463 399c18-25 51-35 72-17-17 11-28 27-44 42 25-6 42 3 54 21-28 14-56 3-72-18-5 22-20 35-41 42 0-28 11-52 31-70z"/>
+    <path d="M115 339c-13-22-8-48 10-65 5 20 3 35-5 53 19-11 36-9 51 4-17 21-40 26-58 13 1 17-5 29-20 39-7-18-2-34 22-44z"/>
+  </g>
+  <g fill="#f0806d" stroke="#a64f57" stroke-width="4">
+    <path d="M183 170l17 17 23-8-8 23 17 17-24-3-17 17-3-24-23-8 22-12z"/>
+    <path d="M548 163l16 17 24-7-9 22 17 17-24-3-17 17-2-24-24-8 22-12z"/>
+    <path d="M621 559l14 15 21-6-8 20 15 15-21-3-15 15-2-21-21-7 20-11z"/>
+  </g>
+  <g fill="#60798e" stroke="#244356" stroke-width="5">
+    <path d="M63 195l17-20 24 6 9 24-18 17-25-6z"/><path d="M603 271l20-17 25 9 5 25-20 16-24-8z"/><path d="M99 551l19-14 23 11 2 25-22 14-23-12z"/>
+  </g>
+  <g opacity=".18" stroke="#f9f2ca" stroke-width="2"><path d="M22 248c42-19 76-17 110 2m-89 218c40-18 76-17 112 2m429-219c42-19 76-17 110 2m-100 207c42-19 76-17 110 2"/></g>
+</svg>
