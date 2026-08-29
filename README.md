@@ -1,13 +1,15 @@
 # Squid Racerz
 
-A tiny, keyboard-and-touch friendly arcade racer. Catch the signal, dodge the crates, and reach the very specific finish line.
+A tiny keyboard-and-touch circuit racer about clean drifts and immaculate file naming.
 
 Open `index.html` in a browser, or play the published site.
 
 ## Controls
 
+- Up arrow or W — accelerate
+- Down arrow or S — brake / reverse
 - Left / right arrows or A / D — steer
-- Space / up arrow — boost
+- Space — drift
 - P or Escape — pause
 
-Touch: drag on the race lane, or use the on-screen controls.
+Touch: use the five on-screen controls. Steering, throttle, and drift support simultaneous holds.
