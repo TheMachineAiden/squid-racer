@@ -1,6 +1,6 @@
 # Squid Racerz
 
-A tiny keyboard-and-touch circuit racer about clean drifts and immaculate file naming.
+A small coastal time-trial racer with responsive keyboard and touch controls.
 
 Open `index.html` in a browser, or play the published site.
 
